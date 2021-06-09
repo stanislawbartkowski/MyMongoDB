@@ -1,6 +1,6 @@
 # MyMongoDB
 
-It is my placeholder for some articles and small projects regarding MongoDB
+It is a placeholder for some articles and small projects regarding MongoDB
 
 | Description | Link |
 | --------- | ------------ |
